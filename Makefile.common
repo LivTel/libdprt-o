@@ -1,0 +1,10 @@
+# $Header: /home/cjm/cvs/libdprt-o/Makefile.common,v 1.1 2025-02-06 11:52:36 cjm Exp $
+
+O_HOME			= o
+LIBDPRT_O_SRC_HOME	= $(LIBDPRT_SRC_HOME)/$(O_HOME)
+LIBDPRT_O_BIN_HOME	= $(LIBDPRT_BIN_HOME)/$(O_HOME)
+LIBDPRT_O_DOC_HOME	= $(LIBDPRT_DOC_HOME)/$(O_HOME)
+
+#
+# $Log: not supported by cvs2svn $
+#
